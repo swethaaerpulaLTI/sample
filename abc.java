@@ -1,3 +1,3 @@
 class abc{
-void fun
+void fun()
 }
